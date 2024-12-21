@@ -1,6 +1,6 @@
 # UK Train Rides Data Analysis: Outstanding Insights
 
-![Train](https://via.placeholder.com/800x300?text=UK+Train+Rides+Analysis)
+![Train](https://assets.forestholidays.co.uk/damprodblob/assets/siteassets/forestipedia/blogs/the-flying-scotsman-rides-again/medium_steam_train_norfolk_ss_1050163709_666c49d6af.png)
 
 Welcome to the **UK Train Rides Data Analysis** project! 🚆 This repository is where data meets storytelling, uncovering hidden gems within the intricate network of UK train travel. Join us on this journey as we transform raw data into actionable insights that inspire change and spark curiosity.
 
