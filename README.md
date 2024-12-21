@@ -15,7 +15,7 @@ We are **DataCe**, a team of passionate data explorers with a shared mission to 
 - **Nada Abdelamid Abdeldaiem Abdelrahman**  
 - **Hager Emad Abdelaziz**
 
-![Teamwork](https://via.placeholder.com/600x200?text=Meet+the+Team)
+![Teamwork](https://i.ibb.co/QCZG8ts/Picsart-24-12-21-21-29-57-460.png)
 
 ---
 
