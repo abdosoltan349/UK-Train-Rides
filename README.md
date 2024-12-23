@@ -14,6 +14,7 @@ We are **DataCe**, a team of passionate data explorers with a shared mission to 
 - **Amr Alaa Mahmoud Mohamed**  
 - **Nada Abdelamid Abdeldaiem Abdelrahman**  
 - **Hager Emad Abdelaziz**
+- **Mohamed Latif Break Latif**
 
 ![Teamwork](https://i.ibb.co/wr4JS2r/Picsart-24-12-21-22-30-55-999.png)
 
@@ -137,7 +138,7 @@ This project leverages a powerful toolkit to achieve its goals:
 
 ```plaintext
 .
-├── data/                 # Raw and cleaned datasets
+├── data/                 # Poject Dataset and Data dictionary
 ├── notebooks/            # Jupyter Notebooks for analysis
 ├── visualizations/       # Charts and graphs
 ├── reports/              # Detailed reports and presentations
