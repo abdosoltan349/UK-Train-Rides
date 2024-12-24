@@ -16,7 +16,7 @@ We are **DataCe**, a team of passionate data explorers with a shared mission to 
 - **Hager Emad Abdelaziz**
 - **Mohamed Latif Break Latif**
 
-![Teamwork](https://i.ibb.co/wr4JS2r/Picsart-24-12-21-22-30-55-999.png)
+![Teamwork](https://i.ibb.co/PNGDHxR/Picsart-24-12-24-18-58-34-450.png)
 
 ---
 
